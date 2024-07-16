@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Juan Montes
-
 ## 👨‍💻 About Me
 I'm a backend developer specializing in PHP, Node.js, and React Native. I am seeking opportunities to apply my technical skills in challenging and collaborative projects to drive organizational success.
 
